@@ -3,6 +3,7 @@ Hi! 😁<br><br>Nice to meet you! I'm Anderson Gabriel, born and raised in Brazi
 
 
 ## 🌐 Socials:
+<a href="mailto:gabrielvalencasa98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andgabx) 
 
 # 💻 Tech Stack:
