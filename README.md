@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 😁<br><br>Nice to meet you! I'm Anderson Gabriel, born and raised in Brazil and pursuing my Computer Science degree, on my way to be a Front-End Developer!<br><br>I'm currently looking for an internship as I just started my graduation and want to have as much experience as possible until I graduate from my college 👨‍🎓<br><br>React is the main subject I've been studying these last weeks.
+Hi! 😁<br><br>Nice to meet you! I'm Anderson Gabriel, born and raised in Brazil and pursuing my Computer Science degree, on my way to be a Front-End Developer!<br><br>I'm currently looking for an internship as I just started my graduation and want to have as much experience as possible until I graduate from my college 👨‍🎓<br><br>React and Tailwind are the main technologies I've been studying these last weeks.
 
 
 ## 🌐 Socials:
