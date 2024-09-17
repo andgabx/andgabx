@@ -6,7 +6,7 @@ Hi! 😁<br><br>Nice to meet you! I'm Anderson Gabriel, born and raised in Brazi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andgabx)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,python,java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,python,java,c)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=andgabx&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
