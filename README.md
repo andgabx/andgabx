@@ -17,6 +17,8 @@ Hi! 😁<br><br>Nice to meet you! I'm Anderson Gabriel, born and raised in Brazi
 [![My Skills](https://skillicons.dev/icons?i=c,java,python)](https://skillicons.dev)
 
 # 📊 My Stats:
-![andgabx's Stats](https://github-readme-stats.vercel.app/api?username=andgabx&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+<img src="https://raw.githubusercontent.com/andgabx/andgabx/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 [![](https://visitcount.itsvg.in/api?id=andgabx&icon=2&color=5)](https://visitcount.itsvg.in)
