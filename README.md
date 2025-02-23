@@ -1,4 +1,4 @@
-Hi! 😁<br><br>Nice to meet you! I'm Anderson Gabriel, born and raised in Brazil and pursuing my Computer Science degree, on my way to be a Full-Stack Developer!<br><br>I'm currently looking for an internship as I just started my graduation and want to have as much experience as possible until I graduate from my college 👨‍🎓<br><br>Next.Js and Typescript are the main technologies I've been studying recently!
+Hi! 😁<br><br>Nice to meet you! I'm Anderson Gabriel, born and raised in Brazil and pursuing my Computer Science degree, on my way to be a Full-Stack Developer!<br><br>Next.Js and Typescript are the main technologies I've been studying recently!
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielvalencasa98@gmail.com)
