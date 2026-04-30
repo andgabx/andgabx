@@ -1,4 +1,4 @@
-Hi! 😁<br><br>Nice to meet you! I'm Anderson Gabriel, born and raised in Brazil and pursuing my Computer Science degree, on my way to be a Full-Stack Developer!<br><br>Swift and Entity Framework are the main technologies I've been studying recently!
+Hi! 😁<br><br>Nice to meet you! I'm Anderson Gabriel, born and raised in Brazil and pursuing my Computer Science degree, on my way to be a Full-Stack Developer!<br><br>Kotlin is the main technology I've been studying recently!
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielvalencasa98@gmail.com)
